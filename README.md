@@ -21,11 +21,6 @@
 > (No malicious actions are included.)
 
 # Usage
-> ## Custom Code
-> 1. Go to the function Start()<br>
-> 2. Find ***:gotAdmin***.<br>
-> 3. Edit the code below the line ***:gotAdmin***.<br>
->
 > **It is a cmd Batch (.bat) file. You can use to execute certain executable files instead using the following command:**<br>
 > start /min "YOUR_EXECUTABLE_FILE_PATH"<br>
 > ## Manual Compilation
