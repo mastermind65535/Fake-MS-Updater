@@ -21,7 +21,7 @@
 
 # Purposes
 > This project is a **Proof of Concept (PoC) malware designed to evaluate how well employees using Windows systems handle "social engineering" scenarios** and assess their effectiveness in responding to and minimizing the impact of already executed malicious code.
-> (No malicious actions are included.)
+> **(No malicious actions are included in the source code.)**
 
 # Usage
 > **It is a cmd Batch (.bat) file. You can use to execute certain executable files instead using the following command:**<br>
