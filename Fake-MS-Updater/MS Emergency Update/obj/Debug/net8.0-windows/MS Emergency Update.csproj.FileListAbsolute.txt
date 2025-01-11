@@ -1,0 +1,17 @@
+C:\Users\maste\source\repos\APT65535\MS Emergency Update\bin\Debug\net8.0-windows\MS Emergency Update.exe
+C:\Users\maste\source\repos\APT65535\MS Emergency Update\bin\Debug\net8.0-windows\MS Emergency Update.deps.json
+C:\Users\maste\source\repos\APT65535\MS Emergency Update\bin\Debug\net8.0-windows\MS Emergency Update.runtimeconfig.json
+C:\Users\maste\source\repos\APT65535\MS Emergency Update\bin\Debug\net8.0-windows\MS Emergency Update.dll
+C:\Users\maste\source\repos\APT65535\MS Emergency Update\bin\Debug\net8.0-windows\MS Emergency Update.pdb
+C:\Users\maste\source\repos\APT65535\MS Emergency Update\obj\Debug\net8.0-windows\MS_Emergency_Update.Form1.resources
+C:\Users\maste\source\repos\APT65535\MS Emergency Update\obj\Debug\net8.0-windows\MS Emergency Update.csproj.GenerateResource.cache
+C:\Users\maste\source\repos\APT65535\MS Emergency Update\obj\Debug\net8.0-windows\MS Emergency Update.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maste\source\repos\APT65535\MS Emergency Update\obj\Debug\net8.0-windows\MS Emergency Update.AssemblyInfoInputs.cache
+C:\Users\maste\source\repos\APT65535\MS Emergency Update\obj\Debug\net8.0-windows\MS Emergency Update.AssemblyInfo.cs
+C:\Users\maste\source\repos\APT65535\MS Emergency Update\obj\Debug\net8.0-windows\MS Emergency Update.csproj.CoreCompileInputs.cache
+C:\Users\maste\source\repos\APT65535\MS Emergency Update\obj\Debug\net8.0-windows\MS Emergency Update.dll
+C:\Users\maste\source\repos\APT65535\MS Emergency Update\obj\Debug\net8.0-windows\refint\MS Emergency Update.dll
+C:\Users\maste\source\repos\APT65535\MS Emergency Update\obj\Debug\net8.0-windows\MS Emergency Update.pdb
+C:\Users\maste\source\repos\APT65535\MS Emergency Update\obj\Debug\net8.0-windows\MS Emergency Update.genruntimeconfig.cache
+C:\Users\maste\source\repos\APT65535\MS Emergency Update\obj\Debug\net8.0-windows\ref\MS Emergency Update.dll
+C:\Users\maste\source\repos\APT65535\MS Emergency Update\obj\Debug\net8.0-windows\MS_Emergency_Update.Properties.Resources.resources
