@@ -16,6 +16,9 @@
 >
 > The creator(s) of this software assume no liability and are not responsible for any misuse or damages arising from the use of this software. Always obtain proper authorization before testing or analyzing systems using this software.
 
+# Warning
+> Be sure to read the license before using the project.
+
 # Purposes
 > This project is a **Proof of Concept (PoC) malware designed to evaluate how well employees using Windows systems handle "social engineering" scenarios** and assess their effectiveness in responding to and minimizing the impact of already executed malicious code.
 > (No malicious actions are included.)
